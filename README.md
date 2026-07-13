@@ -80,20 +80,26 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meseten&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meseten&theme=radical&hide_border=true&stroke=0000&background=141321" width="49%" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Meseten&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meseten&theme=radical&hide_border=true&stroke=0000&background=141321&cache_seconds=86400" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meseten&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meseten&layout=compact&theme=radical&hide_border=true" width="49%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meseten&theme=radical&hide_border=true&bg_color=141321" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meseten&theme=radical&hide_border=true&bg_color=141321&cache_seconds=86400" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
