@@ -74,7 +74,7 @@
 ### GitHub Metrics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meseten&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Meseten&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=1" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -83,23 +83,23 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Meseten&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Meseten&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meseten&theme=radical&hide_border=true&stroke=0000&background=141321&cache_seconds=86400" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meseten&theme=radical&hide_border=true&stroke=0000&background=141321" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meseten&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meseten&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meseten&theme=radical&hide_border=true&bg_color=141321&cache_seconds=86400" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meseten&theme=radical&hide_border=true&bg_color=141321" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
@@ -107,7 +107,7 @@
 ### Contact
 
 * **Portfolio:** [ben4dev.vercel.app](https://ben4dev.vercel.app)
-* **Email:** [benjamesduag.edu@gmail.com] <!-- Update with your actual email -->
+* **Email:** [benjamesduag.edu@gmail.com](mailto:benjamesduag.edu@gmail.com) <!-- Update with your actual email -->
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Meseten&color=38B2AC&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
